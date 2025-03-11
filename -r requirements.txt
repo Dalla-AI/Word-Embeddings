@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+gensim
+tqdm
+scikit-learn
+datasets
+apache_beam
+wefe==0.2.1
+pyarrow
